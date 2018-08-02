@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="238" height="58" viewBox="0 0 238 58">
+    <defs>
+        <linearGradient id="a" x1="100%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FF705A"/>
+            <stop offset="100%" stop-color="#FF5E70"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <rect width="238" height="58" fill="url(#a)" rx="10"/>
+        <text fill="#FFF" font-family="Celias-Medium, Celias" font-size="20" font-weight="400" letter-spacing=".417">
+            <tspan x="30" y="35">Request for Invite</tspan>
+        </text>
+    </g>
+</svg>
