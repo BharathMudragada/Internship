@@ -1,6 +1,7 @@
 #https://drive.google.com/open?id=15U3O8h0AbP23XjdTpqSPRgA8gmJfIpmk
 from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
+import urllib2
 gauth = GoogleAuth()
 gauth.LocalWebserverAuth()
 drive = GoogleDrive(gauth)
