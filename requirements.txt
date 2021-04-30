@@ -111,7 +111,7 @@ qtconsole==4.3.1
 redis==2.10.6
 regex==2018.8.29
 requests==2.20.0
-rsa==4.0
+rsa==4.7
 s3transfer==0.1.11
 scandir==1.7
 schedule==0.5.0
